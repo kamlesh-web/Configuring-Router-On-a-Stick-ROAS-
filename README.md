@@ -1,3 +1,9 @@
+## ROAS Overview
+<img width="1366" height="768" alt="configuring ROAS Overview" src="https://github.com/user-attachments/assets/df316cca-fc55-4f44-bc9d-4c45cc910fba" />
+
+---
+## ROAS Configurations
+    
     Router>
     Router>
     Router>enable
@@ -83,3 +89,6 @@
     GigabitEthernet0/0/2   unassigned      YES unset  administratively down down 
     Vlan1                  unassigned      YES unset  administratively down down
     router0#
+---
+## Ping Test
+<img width="1366" height="768" alt="configuring ROAS 3" src="https://github.com/user-attachments/assets/43c5cb3f-376d-416e-b6de-9270c758c7ea" />
